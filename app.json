@@ -8,6 +8,10 @@
     "scheme": "turistei",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "androidStatusBar": {
+      "backgroundColor": "#F5F5F5",
+      "barStyle": "dark-content"
+    },
     "ios": {
       "supportsTablet": true
     },
