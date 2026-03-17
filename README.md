@@ -1,6 +1,6 @@
 # Turistei
 
-App de descoberta de locais (restaurantes, bares, pubs, padarias, cafeterias) em **Barretos, SP**.
+App de descoberta de locais (restaurantes, bares, pubs, padarias, cafeterias)
 
 ---
 
